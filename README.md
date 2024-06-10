@@ -1,8 +1,4 @@
 ---
-## 👨‍💻 Sobre
-
-Este repositório contém o código-fonte da API back-end desenvolvida como desafio final para o curso da Rocketseat. A API é parte integrante do ecossistema do FoodExplorer, um restaurante inovador que busca proporcionar uma experiência gastronômica única.
----
 
 ## 📄 Tecnologias
 
