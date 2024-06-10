@@ -19,12 +19,6 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 ---
 
-## 📑 Estrutura Banco de dados
-
-![Screenshot_3](https://uploaddeimagens.com.br/images/004/721/555/original/dataBase.png)
-
----
-
 ## 🚀 Como utilizar
 
 Clone o projeto para o local desejado em seu computador.
