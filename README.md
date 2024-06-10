@@ -1,5 +1,3 @@
----
-
 ## 📄 Tecnologias
 
 As seguintes tecnologias foram empregadas na criação deste projeto:
