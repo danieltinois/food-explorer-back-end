@@ -56,12 +56,6 @@ $ npm run dev
 
 ---
 
-## 🪪 Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
 <p align="center"> created by Daniel Tinois  - © 2024 - Todos os direitos reservados.<p align="center">
  <a href="https://www.linkedin.com/in/daniel-tinois-7338a2244/" target="_blank"><img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" height="25" width="25" alt="Linked" />
 </p></p>
