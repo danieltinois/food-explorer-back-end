@@ -36,7 +36,7 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone
+$ git clone https://github.com/danieltinois/food-explorer-back-end.git
 ```
 
 ---
